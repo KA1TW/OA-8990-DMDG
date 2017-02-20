@@ -1,4 +1,4 @@
-Files attached for ROM A and ROM C. This firmware adds the "auto ack" feature
+Files attached for ROM A and ROM C.
  
 They are from a 1992 dated Racal MA4248 (not US mil)
 
@@ -9,7 +9,3 @@ EPROMs are   Fujitsu MBM2732A-35. I tried other eproms but this is the only one 
 Cut link 9. Enable link 8.
 
 The KY-879 I have originally had one mask rom in slot a.
-
-ROM A is 4K or 8K
-ROM B is housekeeping program - its a 1K ROM  
-ROM C is 4K  (can be configured to be top half of ROM A if ROM A is a 4K)

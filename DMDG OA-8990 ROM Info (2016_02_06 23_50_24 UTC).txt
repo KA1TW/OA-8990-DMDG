@@ -1,0 +1,11 @@
+Files attached for ROM A and ROM C.
+ 
+They are from a 1992 dated Racal MA4248 (not US mil)
+
+Rom B is the same.
+
+EPROMs are   Fujitsu MBM2732A-35. I tried other eproms but this is the only one that worked. It was the original as well.
+
+Cut link 9. Enable link 8.
+
+The KY-879 I have originally had one mask rom in slot a.
